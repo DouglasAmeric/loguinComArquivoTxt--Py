@@ -1,0 +1,2 @@
+usuário (troque a palavra usuario pelo seu usuario, e remova qualquer coisa posterior ao usuario)
+senha (troque a palavra 'senha' pela sua senha, e remova qualquer coisa posterior a senha)
